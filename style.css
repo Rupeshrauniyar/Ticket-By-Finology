@@ -157,9 +157,10 @@ background-color: #fff;
 border-bottom: 2px solid  #2852efd2;
 }
 .page3 table{
-width:52vh;
+width:49vh;
 }
 #title{
+width: 49vh;
 border: 2px solid #6aa2ff;
 background-color: #6aa2ff;
 color: #fff;
@@ -214,7 +215,7 @@ float: right;
 
 
 .page4{
-height: 5vh;  
+height: 60vh;  
 width:100%;
 }
  .slide2{
@@ -273,10 +274,13 @@ align-items: center;
 justify-content: center;
 }
 
-
+.page5{
+width: 100%;
+height: 170vh;
+}
 .page5-content{
 width: 100%;
-height: 150vh;
+height: 170vh;
 }
 
 .topic{
@@ -287,10 +291,17 @@ opacity: .5;
 .page5-content hr{
 opacity: .5;
 }
-
+.page6{
+width: 100%;
+height: 170vh;
+}
 .page6-content{
 width: 100%;
-height: 150vh;
+height: 170vh;
+}
+.page7{
+height: 500vh;
+width: 100%;
 }
 .page7-content{
 height: 500vh;
@@ -310,7 +321,7 @@ height:80vh;
 } 
 .page5-content{
 width: 100%;
-height: 40vh;
+height: 600vh;
 }
 }
 
