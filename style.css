@@ -280,7 +280,7 @@ height: 170vh;
 }
 .page5-content{
 width: 100%;
-height: 170vh;
+min-height: 150vh;
 }
 
 .topic{
@@ -317,14 +317,13 @@ width: 100%;
 @media(max-width:1440px){
 .page3{
 width: 100%;
-height:80vh;
+height:140vh;
 } 
 .page5-content{
 width: 100%;
-height: 600vh;
+min-height: 10vh;
 }
 }
-
 @media(max-width:435px){
 .page3{
 width: 100%;
@@ -332,6 +331,6 @@ height: 235vh;
 } 
 .page5-content{
 width: 100%;
-height: 150vh;
+min-height: 150vh;
 }
 }
