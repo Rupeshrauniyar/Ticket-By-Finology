@@ -199,27 +199,29 @@ outline: none;
 }
 
 #tab-a{
-text-decoration: none;
-display: flex;
+margin-left: 4vh;
 align-items: center;
 justify-content: center;
+display: flex;
 position: relative;
-color: #2852efd2;
-padding: 0 40px;
-text-align: center;
-margin-top: 20px;
-margin-left: 12vh;
-float: right;
+text-decoration: none;
+border: 2px solid  ;
+width: 30vh;
+border-radius: 8px;
+height: 5vh;
+background-color: #2852efd2;
+color: #fff;
+margin-top:5vh;
 }
 
 
 
 .page4{
-height: 60vh;  
+height: 65vh;  
 width:100%;
 }
  .slide2{
-height:45vh;
+height:55vh;
 }
    .slide2  .swiper {
       width: 100%;
@@ -273,7 +275,44 @@ display: flex;
 align-items: center;
 justify-content: center;
 }
-
+.page4-view span{
+align-items: center;
+justify-content: center;
+display: flex;
+position: relative;
+}
+.page4-view #b{
+align-items: center;
+justify-content: center;
+display: flex;
+position: relative;
+text-decoration: none;
+border: 2px solid  ;
+width: 20vh;
+border-radius: 8px;
+height: 5vh;
+background-color: #2852efd2;
+color: #fff;
+}
+.swiper-slide span{
+align-items: center;
+justify-content: center;
+display: flex;
+position: relative;
+}
+.swiper-slide #b{
+align-items: center;
+justify-content: center;
+display: flex;
+position: relative;
+text-decoration: none;
+border: 2px solid  ;
+width: 20vh;
+border-radius: 8px;
+height: 5vh;
+background-color: #2852efd2;
+color: #fff;
+}
 .page5{
 width: 100%;
 height: 170vh;
@@ -307,8 +346,76 @@ width: 100%;
 height: 500vh;
 width: 100%;
 }
+}
+
+.page8{
+height: 300vh;
+width: 100%;
+}
+.page8 h3{
+position: relative;
+align-items: center;
+justify-content: center;
+display: flex;
+font-size: 4vh;
+line-height: 20px;
+}
+
+.page8 p{
+position: relative;
+align-items: center;
+justify-content: center;
+display: flex;
+opacity: .7;
+padding: 0 40px;
 
 }
+.page8 img{
+position: relative;
+align-items: center;
+justify-content: center;
+display: flex;
+width: 43vh;
+height: 40vh;
+object-fit: contain;
+padding: 0 30px;
+}
+.page8 p2{
+padding: 0 20px;
+}
+.page8 span{
+margin-top: 7vh;
+align-items: center;
+justify-content: center;
+display: flex;
+position: relative;
+}
+.page8 #a2{
+align-items: center;
+justify-content: center;
+display: flex;
+position: relative;
+text-decoration: none;
+border: 2px solid  ;
+width: 30vh;
+border-radius: 8px;
+height: 5vh;
+background-color: #2852efd2;
+color: #fff;
+}
+
+.page8 i{
+color:#2852efd2 ;
+font-size: 4vh;
+}
+
+
+
+
+
+
+
+
 
 
 
@@ -327,7 +434,7 @@ min-height: 10vh;
 @media(max-width:435px){
 .page3{
 width: 100%;
-height: 235vh;
+height: 245vh;
 } 
 .page5-content{
 width: 100%;
